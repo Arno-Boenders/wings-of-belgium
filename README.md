@@ -1,5 +1,7 @@
 # Wings Of Belgium
 
+[Play the Game Here!](https://wings-of-belgium.onrender.com/)
+
 ## Overview
 This game was developed for the Belgian Airforce with the primary goal of educating users about the various roles and jobs within the airforce. Through selecting and assembling the correct team for various missions, players gain insight into the specific personnel and skills required for different operations. In addition, players can enjoy airforce-themed mini-games, such as an airforce version of *Space Invaders*. The game also features a news and events section, pulling in real-time updates from the Belgian Airforce's official website.
 
